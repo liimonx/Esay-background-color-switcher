@@ -1,0 +1,26 @@
+body{
+	background-color: #38f5fe;
+	margin: 0;
+}
+.switch{
+	border-radius: 50%;
+	margin-top: 5%;
+}
+.green, .red, .blue{
+	padding:20px;
+	width: 1%;
+	margin-left: -35px;
+	transition: 0.5s;
+
+}
+.green{
+	background-color: #5bff6c;
+}
+.red{
+	background-color: #fc2087;
+
+
+}
+.blue{
+	background-color: #38f5fe;
+}
